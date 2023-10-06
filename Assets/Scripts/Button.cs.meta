@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 712c365df9b426a439aed783a1321b2d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - door: {instanceID: 0}
+  - useMat: {fileID: 2100000, guid: e046edd6b87c0d140a2db828b0bc0404, type: 2}
+  - idleMat: {fileID: 2100000, guid: 0e88b7cfaed3b0547aea3b38a8c7ebfc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
