@@ -1,8 +1,3 @@
-# Sense
-홍익대학교 컴퓨터공학전공 2021-2 졸업작품
-
----
-
 # Project Instruction
 
 This project's goal is to make First-Person View 3D game through Unity.
